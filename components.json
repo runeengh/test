@@ -1,7 +1,3 @@
 {
-    value: [
-        {name: 'a'},
-        {name: 'b'},
-        {name: 'c'}
-    ]
+    value: ['1','2',3']
 }
