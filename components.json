@@ -1,0 +1,13 @@
+{
+    value: [
+        {SIA: 'HR kuben'},
+        {SIA: 'BI Infrastruktur'},
+        {SIA: 'Marked kuben'},
+        {IPT: 'GO'},
+        {IPT: 'GIT'},
+        {Netthandel: 'Bundle'},
+        {Netthandel: 'E-handle'},
+        {Test: 'Azure DevOps'},
+        {Test: 'MS Planner'}
+    ]
+}
